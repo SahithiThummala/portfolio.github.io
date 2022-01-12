@@ -188,6 +188,11 @@ nav .links li a:hover {
   height: 12px;
   background: rgba(207, 61, 48);
 }
+.C-percentage {
+  width: 80%;
+  height: 12px;
+  background: rgba(207, 61, 48);
+}
 
 #education{
   align-items: flex-start;
