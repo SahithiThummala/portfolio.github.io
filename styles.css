@@ -121,9 +121,10 @@ nav .links li a:hover {
   line-height: 30px;
 }
 #about .about-img {
-  text-align: left;
+  text-align: center;
   width: 30%;
   position: relative;
+  perspective: 462px
 }
 #about .about-img .my-image {
   width: 100%;
