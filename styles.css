@@ -127,7 +127,7 @@ nav .links li a:hover {
 }
 #about .about-img .my-image {
   width: 100%;
-  border-radius: 20px;
+  border-radius: 50px;
   transform: rotateX(-380deg) rotateY(-10deg);
 }
 .skills {
