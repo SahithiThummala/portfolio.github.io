@@ -127,9 +127,9 @@ nav .links li a:hover {
   perspective: 462px
 }
 #about .about-img .my-image {
-  width: 100%;
+  width: 70%;
   border-radius: 20px;
-  transform: rotateX(-380deg) rotateY(-10deg);
+  transform: rotateX(-360deg) rotateY(-10deg);
 }
 .skills {
   margin-top: 50px;
@@ -226,3 +226,8 @@ nav .links li a:hover {
       margin:10px 10px;
       justify-content: space-between;
       }
+footer {
+  text-align: center;
+  letter-spacing: 1.2px;
+  margin: 30px 0px;
+}
